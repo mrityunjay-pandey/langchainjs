@@ -1,5 +1,13 @@
 # langchain
 
+## 1.5.17
+
+### Patch Changes
+
+- [#11498](https://github.com/langchain-ai/langchainjs/pull/11498) [`227f01c`](https://github.com/langchain-ai/langchainjs/commit/227f01c818996bf107dbcedc3e0ffa1620b7719e) Thanks [@xianjianlf2](https://github.com/xianjianlf2)! - feat(langchain): support HITL respond decisions
+
+- [#11822](https://github.com/langchain-ai/langchainjs/pull/11822) [`d3e6fe6`](https://github.com/langchain-ai/langchainjs/commit/d3e6fe66a5f902fa615f076ca71d9541f1291166) Thanks [@dqbd](https://github.com/dqbd)! - Add explicit agent address support to `LangChainTracer`, inherit project and address destinations together, and delegate default destination resolution to the LangSmith SDK.
+
 ## 1.5.16
 
 ### Patch Changes
